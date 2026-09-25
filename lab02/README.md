@@ -17,6 +17,7 @@ int main() {
 }
 ```
 Компилятор выдает ошибку синтаксиса. программа не компилируется
+
 <img width="469" height="198" alt="image" src="https://github.com/user-attachments/assets/c6de9515-ddb5-4463-96b5-30be88400d6b" />
 
 
